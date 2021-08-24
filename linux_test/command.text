@@ -1,0 +1,14 @@
+文件管理;;查看文件内容并显示行号;;cat -n filename
+文件管理;;查看文件内容并显示非空行号;;cat -b filename
+文件管理;;文件权限+r;;chmod +r filename / chmod a+r filename
+文件管理;;文件权限文件所有者+r;;chmod u+r filename
+文件管理;;文件权限文件所有者组+r;;chmod g+r filename
+文件管理;;文件权限所有其它用户+r;;chmod o+r filename
+文件管理;;文件权限764;;chmod 764 filename
+
+
+
+
+
+
+
