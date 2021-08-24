@@ -1,2 +1,2 @@
-# BasePythonRepository
-Base Python Repository
+# LinuxTest
+Linux command operation exercises
